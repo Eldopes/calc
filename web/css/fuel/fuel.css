@@ -1,0 +1,44 @@
+/*
+ *
+ * Cтили для страницы 'fuel'
+ *
+ * */
+
+.fuel{
+  background-color: #e8e8e8;
+  border: dotted 1px grey;
+  height: 60em;
+  width: 100%;
+}
+.fuel h1{
+  text-align: center;
+  margin-top: 30px;
+}
+.fuel-input{
+  margin-top: 3%;
+  margin-left: 1%;
+  width: 25%;
+}
+.distance{
+  text-align:center;
+  padding-top: 6px;
+}
+.calculation-result{
+  margin-top: 10%;
+  text-align:center;
+}
+.result-number{
+  font-weight: 100;
+  font-size: 2em;
+  margin-top: 5px;
+}
+
+/* Цвета кнопок рассчёта */
+#calculate-distance{
+  background-color: green;
+  border-color: green;
+}
+#calculate-cost{
+  background-color: green;
+  border-color: green;
+}
