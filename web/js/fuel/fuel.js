@@ -59,6 +59,7 @@ function sendDistance() // посылает переменную _distance PHP-�
             success: function(response) {
               // simply checking git
               // test 1
+              // test 2
 
                  // window.location.reload(true);
                  console.log("success!");
